@@ -1,4 +1,3 @@
 # Git Practice repository
 
 OUR CHANGES ON 'DEV' BRANCH
-OUR CHANGES FROM 'FEATURE' BRANCH.

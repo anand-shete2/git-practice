@@ -1,6 +1,3 @@
 # Git Practice repository
 
-**FEATURE** BRANCH
-
-
-Their changes.
+OUR CHANGES ON 'FEATURE' BRANCH.

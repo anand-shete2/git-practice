@@ -1,5 +1,5 @@
 # Git Practice repository
 
-**DEV** BRANCH
+**FEATURE** BRANCH
 
 

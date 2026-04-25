@@ -1,3 +1,7 @@
 # Git Practice repository
 
-Custom repo to practice git pull and merge.
+A file was created.
+
+spaces were added.
+
+MAIN branch.
